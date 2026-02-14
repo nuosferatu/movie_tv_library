@@ -44,7 +44,7 @@ def t(key: str, **kwargs) -> str:
 
 
 def clear():
-    # os.system("clear")
+    os.system("clear")
     pass
 
 

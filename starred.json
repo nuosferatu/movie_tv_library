@@ -1,5 +1,21 @@
 [
   {
+    "name": "Avatar",
+    "release_date": "2009",
+    "media_type": "Movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+    "seasons": [],
+    "tmdb_id": 19995,
+    "tmdb_media_type": "movie",
+    "star_date": "2026-02-14 22:03"
+  },
+  {
     "name": "HaHaHaHaHa",
     "release_date": "2020",
     "media_type": "TV",
